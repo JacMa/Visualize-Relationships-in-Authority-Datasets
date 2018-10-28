@@ -1,6 +1,8 @@
 # Visualize-Relationships-in-Authority-Datasets
 Project from the 2nd Swiss Open Cultural Data Hackathon in Basel 2016
 
+![Poster](Project-Poster.jpg)
+
 Datasets
 - MACS - Multilingual Access to Subjects http://www.dnb.de/DE/Wir/Kooperation/MACS/macs_node.html
 - GND - Gemeinsame Normdatei http://www.dnb.de/DE/Standardisierung/GND/gnd_node.html
