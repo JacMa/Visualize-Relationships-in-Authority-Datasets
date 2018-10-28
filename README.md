@@ -18,6 +18,7 @@ Team
 - Jacqueline Martinelli
 
 
-[1] http://make.opendata.ch/wiki/event:2016-07?s[]=open&s[]=cultural&s[]=data&s[]=hackathon
 
-[2] http://make.opendata.ch/wiki/project:visualize_relationships?s[]=jacqueline&s[]=martinelli
+[1] http://make.opendata.ch/wiki/event:2016-07
+
+[2] http://make.opendata.ch/wiki/project:visualize_relationships
